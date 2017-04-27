@@ -30,5 +30,5 @@ foo: R × R -> R
 ×
 
 Variable:
-
+ændring
 Function:
