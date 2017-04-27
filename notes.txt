@@ -1,0 +1,34 @@
+List:
+
+(1 2 3)
+
+Set:
+
+{a b c}
+
+Maps:
+
+{a: 8 b: 67 c: 80}
+
+Class:
+
+Type:
+R
+Z
+N
+Q
+Q => Z × N
+R × R -> R
+Person => (name: S, age: N0) = { haveBirthDay: Ø -> Ø = ( age = age + 1 ) }
+
+
+Value
+x: R = 8,2
+foo: R × R -> R
+
+
+×
+
+Variable:
+
+Function:
